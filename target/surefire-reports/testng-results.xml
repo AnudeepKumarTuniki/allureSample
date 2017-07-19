@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="4689" started-at="2017-07-19T16:46:07Z" finished-at="2017-07-19T16:46:12Z">
+    <groups>
+    </groups>
+    <test name="C:/Users/Anudeep/IdeaProjects/AnudeepTuniki" duration-ms="4689" started-at="2017-07-19T16:46:07Z" finished-at="2017-07-19T16:46:12Z">
+      <class name="main.java.anudeep.selenium.Sample">
+        <test-method status="PASS" signature="testingBrowser()[pri:0, instance:main.java.anudeep.selenium.Sample@6615435c]" name="testingBrowser" is-config="true" duration-ms="10577" started-at="2017-07-19T22:15:56Z" finished-at="2017-07-19T22:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingBrowser -->
+        <test-method status="PASS" signature="hellowWorldProgram()[pri:0, instance:main.java.anudeep.selenium.Sample@6615435c]" name="hellowWorldProgram" duration-ms="4670" started-at="2017-07-19T22:16:07Z" finished-at="2017-07-19T22:16:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hellowWorldProgram -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:main.java.anudeep.selenium.Sample@6615435c]" name="tearDown" is-config="true" duration-ms="3055" started-at="2017-07-19T22:16:12Z" finished-at="2017-07-19T22:16:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- main.java.anudeep.selenium.Sample -->
+    </test> <!-- C:/Users/Anudeep/IdeaProjects/AnudeepTuniki -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
